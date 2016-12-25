@@ -8,6 +8,13 @@
 
 ●インストールしておくべきもの
 
+・WinRAR
+ - ファイル圧縮・解凍ソフト
+ - 様々なファイルを取り扱うことができる
+ - 試用期間は40日だけど40日を過ぎても利用はできるのでおすすめ
+ ※広告が出てきたりWinRARが常に最新版じゃなくなるけど特に問題はない
+ https://www.winrarjapan.com/download
+
 ・Atom
  - 高性能テキストエディタ
  - プログラムを書いたりこういったテキストデータを作ったりなんでもできるすごいやつ
@@ -27,6 +34,12 @@ http://astah.change-vision.com/ja/download.html#community
   - エミュレーター(仮想Android端末)で作成したアプリを動かすことができる
   - Androidアプリ作成は基本的にこのソフトで行っていく
 https://developer.android.com/studio/index.html#features
+
+・eclipse
+ - Java言語で開発するときに使うIDE(統合開発ソフト)
+ - AndroidStudioでもJava開発はできるけど別々のほうが実行環境を自動的に構築してくれて便利なのでこっちはこっちでインストールしておく
+ - 今回利用するバージョンは4.6のFullEdition(UltimateかJavaのどっちか)
+http://mergedoc.osdn.jp/#pleiades.html
 
 ・Github
   - ソフトウェア開発プロジェクトを円滑に進めるためのソースコード管理サービス
